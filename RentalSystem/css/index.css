@@ -1,0 +1,46 @@
+body{
+	overflow-x: hidden;
+}
+.nav-item{
+	font-family: cursive;
+	font-size: 2vh;
+	font-weight: bold;
+}
+.nav-link{
+	color: black;
+}
+.register{
+	font-family: cursive;
+	position: absolute;
+	right: 10vh;
+}
+.registerbutton{
+	color: black;
+	font-weight: bold;
+}
+#registerlogo{
+	color: black;
+}
+.login{
+	font-family: cursive;
+	position: absolute;
+	right: 5vh;
+}
+.loginbutton{
+	color: black;
+	font-weight: bold;
+}
+#loginlogo{
+	color: black;
+}
+.registerandlogin{
+	position: absolute;
+	left: 100vh;
+}
+.container-fluid{
+	background-color: #32cd32;
+	position: absolute;
+	top: -0.1vh;
+	left: -0.1vh;
+	width: 206.8vh;
+}
